@@ -138,6 +138,7 @@ and issue appropriate commands
   In metasploit list all the usernames using head /etc/passwd or cat /etc/passwd:
 
  ## OUTPUT :
+![Screenshot 2025-03-28 205438](https://github.com/user-attachments/assets/6181cd5f-f835-48f1-845a-7a45a7c655af)
 
 
  select any username in the first column of the above file and check the same
